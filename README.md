@@ -690,6 +690,4 @@ The bench simulator is a first-order demonstration model. It is designed to make
 
 `ESP®` is a registered trademark associated with Robert Bosch GmbH. This independent educational project is not affiliated with or endorsed by Bosch, Arduino, TDK, or any vehicle manufacturer.
 
-## License
 
-No license has been assigned to this project. Add a `LICENSE` file before public redistribution or accepting external contributions.
